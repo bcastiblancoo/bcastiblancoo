@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcastiblancoo
 - 👀 I’m interested in particle physics and cosmology.
-- 🌱 I’m currently learning the SM, BSM physics and MOND.
-- 💞️ I’m looking to collaborate on cosmology projects.
+- 🌱 I’m currently into neutrino and BSM physics.
+- 💞️ I’m looking to collaborate on cosmology and astroparticle projects.
 - 📫 How to reach me: bcastiblancoo@unal.edu.co
 
 <!---
