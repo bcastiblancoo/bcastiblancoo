@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcastiblancoo
 - 👀 I’m interested in cosmology and particle physics.
-- 🌱 I’m currently into the physics of the early universe.
-- 💞️ I’m looking to collaborate on cosmology and astroparticle projects.
+- 🌱 I’m currently researching in the physics of the early universe, CP violation, and flavour physics.
+- 💞️ I’m looking to collaborate on cosmology, particle, and astroparticle projects.
 - 📫 How to reach me: bcastiblancoo@unal.edu.co
 
 <!---
